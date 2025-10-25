@@ -17,3 +17,6 @@ django.setup()
 
 # Get the WSGI application
 application = get_wsgi_application()
+
+# Render looks for 'app' by default
+app = application
