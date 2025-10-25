@@ -10,5 +10,5 @@ services:
       - key: SECRET_KEY
         generateValue: true
       - key: ALLOWED_HOSTS
-        value: appdost-2.onrender.com
+        value: appdost-3.onrender.com
     plan: free
